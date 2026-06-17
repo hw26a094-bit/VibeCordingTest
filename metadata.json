@@ -1,0 +1,6 @@
+{
+  "name": "Game Spec Assistant",
+  "description": "An interactive tool and workspace for building detailed game specifications in markdown format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
